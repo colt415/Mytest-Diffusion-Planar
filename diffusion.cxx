@@ -1,5 +1,5 @@
 // Diffusion in 2D planar geometry with adiabatic boundary condition.
-//test
+
 #include <bout.hxx>
 #include <boutmain.hxx>
 
